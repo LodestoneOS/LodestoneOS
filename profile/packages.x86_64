@@ -133,6 +133,9 @@ zsh
 
 python
 python-pip
+python-pydantic
+python-httpx
+python-ollama
 
 #Neural Networks
 python-pytorch
