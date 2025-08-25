@@ -1,19 +1,22 @@
-# LodestoneOS - Turnkey Local AI
-LodestoneOS is highly AI focused distribution.
-
-Designed to make developing and deploying Artificial Intelligence on local bare-metal as simple as possible, LodestoneOS aims to provide a robust base for both generic and specialized local Artificial Intelligence deployments.
+# LoDeStoneOS - Locally Deployed Artificial Intelligence
+ Pre-packaged with tools like Ollama, PyTorch, and Tensorflow, LoDeStoneOS is designed for developers looking to deploy local artificial intelligence applications.
 
 ## Getting Started
-Currently, LodestoneOS provides a CPU only build.
-This build has been tested on a 8GiB, 3vCPU virtual machine, but has not been tested on real hardware.
+Currently, LoDeStoneOS uses CPU versions of the packaged libraries. This build does not include NVIDIA or AMD GPU support, and is a testing build only.
 
-There is no installation path as of yet.
+There is no ready-to-use ISO.
+
+Building requires installing `profile/airootfs/etc/pacman.d/localrepo/lodestone.db` as a repository on the machine building the ISO.
+
+Use `make` to build the ISO, which will be output into `iso-output.`
 
 ## What's in the box?
 - ollama
-- ...
+- tensorflow
+- pytorch
+- python
 
-## What's to come??
+## What's to come?
 NVIDIA and AMD GPU support.
 
 ## Contributing
