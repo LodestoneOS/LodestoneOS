@@ -1,0 +1,11 @@
+NAME="LodestoneOS"
+PRETTY_NAME="LodestoneOS"
+ID=lodestone
+BUILD_ID=unstable
+ANSI_COLOR="38;2;23;147;209"
+HOME_URL="https://github.com/loadstoneos"
+DOCUMENTATION_URL="https://github.com/loadstoneos"
+SUPPORT_URL="https://github.com/loadstoneos"
+BUG_REPORT_URL="https://github.com/loadstoneos"
+PRIVACY_POLICY_URL="https://github.com/loadstoneos"
+LOGO=archlinux-logo
