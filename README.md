@@ -1,8 +1,8 @@
-# LoDeStoneOS - Locally Deployed Artificial Intelligence
- Pre-packaged with tools like Ollama, PyTorch, and Tensorflow, LoDeStoneOS is designed for developers looking to deploy local artificial intelligence applications.
+# LodestoneOS - Locally Deployed Artificial Intelligence
+ Pre-packaged with tools like Ollama, PyTorch, and Tensorflow, LodestoneOS is designed for developers looking to deploy local artificial intelligence applications.
 
 ## Getting Started
-Currently, LoDeStoneOS uses CPU versions of the packaged libraries. This build does not include NVIDIA or AMD GPU support, and is a testing build only.
+Currently, LodestoneOS uses CPU versions of the packaged libraries. This build does not include NVIDIA or AMD GPU support, and is a testing build only.
 
 There is no ready-to-use ISO.
 
