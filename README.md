@@ -2,7 +2,7 @@
  Pre-packaged with tools like Ollama, PyTorch, and Tensorflow, LodestoneOS is designed for developers looking to deploy local artificial intelligence applications.
 
 ## Getting Started
-There is no ready-to-use ISO.
+There is no ready-to-use ISO at this moment.
 
 Building requires installing `profile/airootfs/etc/pacman.d/localrepo/lodestone.db` as a repository on the machine building the ISO.
 
