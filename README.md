@@ -1,5 +1,6 @@
 # LodestoneOS
-### Locally Deployed Artificial Intelligence Made Easy.
+<img width="244" height="244" alt="LodestoneLogo_244x244" src="https://github.com/user-attachments/assets/dceca5a9-5ea7-4b11-8c96-b5c9c6844dae" />
+### Locally Deployed Artificial Intelligence Made Simple.
  Pre-packaged with tools like Ollama, PyTorch, and Tensorflow, LodestoneOS is designed for developers looking to deploy local artificial intelligence applications.
 
 ## Getting Started
