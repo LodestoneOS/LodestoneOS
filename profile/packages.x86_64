@@ -133,9 +133,20 @@ zsh
 
 python
 python-pip
+
+#Python Libraries
 python-pydantic
 python-httpx
+python-numpy
+python-scipy
+python-opt_einsum
+python-ml-dtypes
+
+#LLM
 python-ollama
+
+python-jax
+python-jaxlib
 
 #Neural Networks
 python-pytorch
