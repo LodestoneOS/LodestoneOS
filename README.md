@@ -3,7 +3,7 @@
 # LodestoneOS
 
 ### A Foundational OS for the Next Generation of AI.
- Pre-packaged with tools like Ollama, PyTorch, and Tensorflow, LodestoneOS is designed for developers looking to deploy local artificial intelligence applications.
+ Pre-packaged with tools like Ollama, PyTorch, and Tensorflow, LodestoneOS is designed for developers looking to develop and deploy local artificial intelligence applications.
 
 ## Getting Started
 There is no ready-to-use ISO at this moment.
